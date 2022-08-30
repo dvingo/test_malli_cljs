@@ -1,0 +1,5 @@
+{:deps {org.clojure/clojure {:mvn/version "1.11.1"}
+        org.clojure/clojurescript {:mvn/version "1.11.54"}
+        metosin/malli {:mvn/version "0.8.9"}}
+ :paths ["src"]
+ :aliases {:repl {:main-opts ["-m" "cljs.main" "--compile" "hello.core" "--repl"]}}}
