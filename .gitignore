@@ -3,8 +3,14 @@
 
 ### Clojure ###
 pom.xml
+.clj-kondo
+.idea
+.shadow-cljs
+node_modules
+public
 pom.xml.asc
 *.jar
+*.iml
 *.class
 /lib/
 /classes/
@@ -22,3 +28,4 @@ cljs-test-runner-out
 .lsp/
 out/
 .clj-kondo/.cache/
+g

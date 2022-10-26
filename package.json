@@ -1,0 +1,11 @@
+{
+  "name": "test_malli_cljs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/eauc/test_malli_cljs.git",
+  "author": "Dan Vingo <dan@danvingo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "shadow-cljs": "^2.20.6"
+  }
+}
